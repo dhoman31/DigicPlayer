@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-Aug-2017, 20:58:02
+    Author     : daniel
+*/
+
+/*
+.button{
+    -fx-background-color: transparent;
+}
+*/
+
+#openButton{
+    -fx-background-image: url("../images/load.png");
+    -fx-background-size: 40, 40;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#playButton{
+    -fx-background-image: url("../images/play.png");
+    -fx-background-size: 40, 40;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#stopButton{
+    -fx-background-image: url("../images/Stop.png");
+    -fx-background-size: 40, 40;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
